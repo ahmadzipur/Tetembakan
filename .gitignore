@@ -14,7 +14,6 @@
 !/[Aa]ssets/**/*.meta
 
 # Auto-generated files
-UserSettings/
 ProjectSettings/EditorBuildSettings.asset
 
 # =========================
